@@ -1,4 +1,4 @@
-Software Engineering Student 😄
+✨ Software Engineering Student ✨
 
 <!--
 **rahma-prodhan04/rahma-prodhan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
